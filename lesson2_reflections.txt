@@ -1,0 +1,32 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Answer: Git transforms the folder into a repository. It creates the .git (hidden) folder. We need it so that we can use git to source control the files in the repository.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+	Answer: The staging area sits between the working directory and the repository. The working directory is your hard drive. The repository is what tracks the commits. The staging area is what you're working on and what will get committed to the repository.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+	Answer: 
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+	Answer: 
+
+How do the diagrams help you visualize the branch structure?
+
+	Answer: 
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	Answer: 
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+	Answer: 
